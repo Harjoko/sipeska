@@ -1,0 +1,6 @@
+{
+  "name": "SIPESKA — Sistem Informasi Persuratan SDN 1 Keden",
+  "description": "Sistem Informasi Persuratan dan Disposisi Digital SDN 1 Keden, Kecamatan Pedan, Kabupaten Klaten. Mengelola surat masuk, surat keluar, disposisi kepala sekolah, dan arsip digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
