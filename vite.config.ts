@@ -11,7 +11,7 @@ export default defineConfig(() => {
         '@': path.resolve(__dirname, '.'),
       }
     },
-    base: process.env.NODE_ENV === 'production' ? '/sipeska/' : '/'
+    base: process.env.NODE_ENV === 'production' ? '/sipeska/' : '/',
     server: {
       // HMR is disabled in AI Studio via DISABLE_HMR env var.
       // Do not modify—file watching is disabled to prevent flickering during agent edits.
